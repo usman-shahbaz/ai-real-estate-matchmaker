@@ -1,4 +1,4 @@
-# 📊 AI Data Analysis Agent
+# AI Data Analysis Agent
 
 > Upload a CSV or Excel file, ask questions in plain English, and get instant SQL-powered insights — no SQL expertise required.
 
