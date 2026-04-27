@@ -8,7 +8,7 @@ Built with **GPT-4o**, **Phidata**, **DuckDB**, and **Streamlit**, following the
 
 ## ✨ Features
 
-| Feature | Description |
+| Feature | Description 
 |---|---|
 | 📤 File Upload | CSV and Excel (.xlsx) support with automatic
 | 💬 Natural Language | Ask questions in plain English — the agent writes SQL for you |
