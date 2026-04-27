@@ -10,7 +10,7 @@ Built with **GPT-4o**, **Phidata**, **DuckDB**, and **Streamlit**, following the
 
 | Feature | Description |
 |---|---|
-| 📤 File Upload | CSV and Excel (.xlsx) support with automatic schema detection |
+| 📤 File Upload | CSV and Excel (.xlsx) support with automatic
 | 💬 Natural Language | Ask questions in plain English — the agent writes SQL for you |
 | ⚡ DuckDB Engine | Fast, in-process analytical SQL queries |
 | 📜 Query History | Every question and answer saved in the session |
