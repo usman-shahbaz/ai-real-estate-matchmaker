@@ -1,7 +1,3 @@
-"""
-AI Data Analysis Agent
-Powered by GPT-4o, Phidata, and DuckDB
-"""
 
 import json
 import tempfile
