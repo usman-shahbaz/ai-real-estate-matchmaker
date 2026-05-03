@@ -2,7 +2,7 @@
 
 > Upload a CSV or Excel file, ask questions in plain English, and get instant SQL-powered insights — no SQL expertise required.
 
-Built with **GPT-4o**, **Phidata**, **DuckDB**, and **Streamlit**, following the [Unwind AI tutorial](https://www.theunwindai.com/p/build-an-ai-data-analysis-agent).
+Built with **GPT-4o**, **Phidata**, **DuckDB**, and **Streamlit**
 
 ---
 
