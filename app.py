@@ -4,9 +4,6 @@ from views.home_view import render_home
 from views.analysis_view import display_street_analysis
 from utils.css_utils import load_custom_css
 
-# ----------------------
-# Page Config
-# ----------------------
 st.set_page_config(
     page_title="StreetWise - AI Street Scoring",
     page_icon="🏙️",
