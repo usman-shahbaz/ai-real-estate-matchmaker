@@ -138,12 +138,6 @@ Once you've uploaded a file, try questions like:
 
 ---
 
-## 📄 License
-
-MIT — feel free to use and extend this project.
-
----
-
 ## 🙏 Acknowledgements
 
 Tutorial by [Unwind AI](https://www.theunwindai.com/p/build-an-ai-data-analysis-agent) · Agent framework by [Phidata](https://docs.phidata.com)
