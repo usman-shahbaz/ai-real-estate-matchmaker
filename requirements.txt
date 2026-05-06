@@ -1,1 +1,19 @@
 
+# UI
+streamlit
+
+# Gemini
+google-generativeai
+
+# Memory
+mem0ai
+
+# Vector store
+pinecone
+
+# Database
+pymongo
+
+# Config
+pydantic-settings
+python-dotenv
