@@ -24,3 +24,13 @@ def preprocess_and_save(file):
         for col in df.columns:
             if 'date' in col.lower():
                 df[col] = pd.to_datetime(df[col], errors='coerce')
+
+# Save to temp file
+        with tempfile.NamedTemporaryFile(delete=False, suffix=".csv") as temp_file:
+            temp_path = temp_file.name
+            df.to_csv(temp_path, index=False, quoting=csv.QUOTE_ALL)
+            
+        return temp_path, df.columns.tolist(), df
+    except Exception as e:
+        st.error(f"Error processing file: {e}")
+        return None, None, None
