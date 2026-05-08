@@ -188,3 +188,6 @@ if uploaded_file is not None:
 
                     except Exception as exc:
                         st.error(f"Something went wrong: {exc}")
+
+else:
+    st.info("👆 Upload a file to get started.")
