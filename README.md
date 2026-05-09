@@ -93,14 +93,6 @@ A sample sales dataset is included in `sample_data/sales_sample.csv`. Upload it 
 
 ---
 
-## 🔑 Getting an OpenAI API Key
-
-1. Go to [https://platform.openai.com/api-keys](https://platform.openai.com/api-keys)
-2. Click **Create new secret key**
-3. Copy the key and paste it into the app sidebar or your `.env` file
-
----
-
 ## 🛠️ Tech Stack
 
 | Tool | Purpose |
