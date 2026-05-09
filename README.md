@@ -103,14 +103,5 @@ A sample sales dataset is included in `sample_data/sales_sample.csv`. Upload it 
 | [Streamlit](https://streamlit.io) | Web UI |
 | [Pandas](https://pandas.pydata.org) | Data loading & preprocessing |
 
----
-
-## 📄 License
-
-MIT License. Feel free to use, modify, and distribute.
-
----
-
-## 🙏 Credits
 
 Tutorial originally published by [Unwind AI](https://www.theunwindai.com/p/build-an-ai-data-analysis-agent).
