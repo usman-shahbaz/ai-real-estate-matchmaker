@@ -1,7 +1,7 @@
 import json
 import tempfile
 import csv
-import streamlit as st
+import streamlit as s
 import pandas as pd
 from phi.model.openai import OpenAIChat
 
