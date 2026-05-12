@@ -16,8 +16,4 @@ def preprocess_and_save(file):
         # Clean and format data
         for col in df.select_dtypes(include=['object']):
             df[col] = df[col].astype(str).replace({r'"': '""'}, regex=True)
-            
-        # Handle dates and numbers
-        for col in df.columns:
-            if 'date' in col.lower():
-                df[col] = pd.to_datetime(df[col], errors='coerce')
+    
