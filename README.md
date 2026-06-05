@@ -1,6 +1,6 @@
 # 📊 AI Data Analysis Agent
 
-A conversational data analysis tool that lets you query CSV and Excel files using plain English. Powered by **GPT-4o**, **Phidata**, and **DuckDB** — no SQL knowledge required.
+A conversational data analysis tool that lets you query CSV and Excel files using plain English. Powered by **GPT-4o**, **Phidata**, and **DuckDB** no SQL knowledge required.
 
 ---
 
