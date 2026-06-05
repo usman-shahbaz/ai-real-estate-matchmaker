@@ -18,7 +18,7 @@ A conversational data analysis tool that lets you query CSV and Excel files usin
 
 ```
 ai-data-analysis-agent/
-├── app.py                  # Main Streamlit application
+├── app.py                  
 ├── requirements.txt        # Python dependencies
 ├── .env.example            # Environment variable template
 ├── .gitignore              # Files to exclude from Git
