@@ -23,7 +23,7 @@ ai-data-analysis-agent/
 ├── .env.example            # Environment variable template
 ├── .gitignore              # Files to exclude from Git
 ├── sample_data/
-│   └── sales_sample.csv    # Example dataset to try the app
+│   └── sales_sample.csv    
 └── README.md
 ```
 
