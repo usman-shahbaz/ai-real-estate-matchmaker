@@ -102,6 +102,3 @@ A sample sales dataset is included in `sample_data/sales_sample.csv`. Upload it 
 | [DuckDB](https://duckdb.org) | In-process SQL engine |
 | [Streamlit](https://streamlit.io) | Web UI |
 | [Pandas](https://pandas.pydata.org) | Data loading & preprocessing |
-
-
-Tutorial originally published by [Unwind AI](https://www.theunwindai.com/p/build-an-ai-data-analysis-agent).
